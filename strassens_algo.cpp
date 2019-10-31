@@ -1,6 +1,5 @@
+// C++ program to Multiply a matrix using Strassen's Algorithm
 #include<bits/stdc++.h>
-#include <stdio.h>
-#include <stdlib.h>
 #define LIMIT 20
 #define N 4
 
